@@ -1,0 +1,39 @@
+body {
+font-family: Arial;
+margin: 0;
+}
+
+header {
+background-color: green;
+color: white;
+text-align: center;
+padding: 15px;
+}
+
+nav {
+background-color: black;
+text-align: center;
+padding: 10px;
+}
+
+nav a {
+color: white;
+text-decoration: none;
+margin: 15px;
+}
+
+.active {
+color: yellow;
+font-weight: bold;
+}
+
+section {
+padding: 20px;
+}
+
+footer {
+background-color: black;
+color: white;
+text-align: center;
+padding: 10px;
+}
